@@ -1,0 +1,13 @@
+1.use npm i morgan to see about http req info
+2.for asynchoronous programming insted of try and catch use (npm i express-async-handler)
+router.route("/:id").put(updatecontact) and router.post('/register',registeruser); both syntax is right.
+
+
+
+
+=> user=> login=>validatetoken=>accesstoken=>contact=>access.  (lifecycle)
+
+
+
+
+
